@@ -4,11 +4,11 @@
 
 ## Конфигурация
 
-**Режим: GUI|WX / TTY|X / TTY**
+**Режим: TTY|Xi / TTY|X / TTY**
 
 **Плагины:**
    ```bash
-   -DUSEWX=yes -DARCLITE=no -DNETROCKS=no
+   -DADB=no -DUSEWX=no -DARCLITE=no -DNETROCKS=no
    ```
 
 ## Шаги сборки
